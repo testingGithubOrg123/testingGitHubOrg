@@ -1,0 +1,123 @@
+/* CSS document for B. Brooks assignment 2 */
+
+body {
+ 	background:#999950
+}
+h1 {
+	font-family:Courier;
+	font-size:24px;
+	font-weight:bold;
+	color:white;
+	text-decoration:underline;
+	text-shadow: 3px 3px #000000;
+}
+h2 {
+	text-align:center;
+	font-family:Courier;
+	font-size:21px;
+	font-weight:bold;
+	color:white;
+	text-decoration:underline;
+	text-shadow: 3px 3px #000000;
+}
+h3 {
+	text-align:center;
+	font-family:Courier;
+	font-size:16px;
+	font-weight:bold;
+	color:white;
+	text-decoration:underline;
+	text-shadow: 3px 3px #000000;
+}
+a:link {
+	color:white;	
+}
+a:visited {
+	color:gold;
+}
+#wrapHome {
+	width:900px;
+	margin:0px auto;
+	border:5px gray solid;
+	padding:10px;
+	overflow:auto;
+}
+#table1 {
+	padding:20px;
+	border:solid black 2px;
+	border-collapse:collapse;
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	table-layout:fixed;
+}
+.player1 {
+	background-color: #ff0000;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.player2 {
+	background-color: #00ff00;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.player3 {
+	background-color: #0000ff;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.player4 {
+	background-color: #ffff00;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.noplayer {
+	background-color: #b5b5b5;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.arid {
+	background-color: #feffd7;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.forest {
+	background-color: #006655;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.farmland {
+	background-color: #55aa11;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.quarry {
+	background-color: #b5b5b5;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
+.iron {
+	background-color: #444444;
+	font-size:16px;
+	color: #000000;
+	width: 30px;
+	height: 30px;
+}
